@@ -10,6 +10,12 @@ The app has only one button, and some basic checks to detect if the device the a
 
 Jailbreak detection methods used can be found here: [https://github.com/thii/DTTJailbreakDetection](https://github.com/thii/DTTJailbreakDetection)
 
+## Companion repo
+
+This repo is meant to be used in tandem with the Cydia repository found here:
+
+[https://github.com/Adis/adis.github.com](https://github.com/Adis/adis.github.com)
+
 ## License
 
 MIT License
